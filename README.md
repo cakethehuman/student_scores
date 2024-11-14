@@ -1,1 +1,1 @@
-data anylst on the avg student grades
+data anaylst on the avg student grades
